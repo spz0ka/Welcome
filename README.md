@@ -1,3 +1,2 @@
 # Welcome
-
-Discord
+<b><p>Discord</b></p>
